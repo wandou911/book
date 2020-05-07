@@ -1,2 +1,2 @@
-# Introduction1
+# Introduction
 
